@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src='https://i.pinimg.com/originals/7b/6e/1f/7b6e1f69b99ad5c3435256f73bf84014.gif'>
-</p>
+</p> -->
 
 
 # ⚡ GitHub stats
